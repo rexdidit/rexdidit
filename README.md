@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Discrete Mathematics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @rexyrex9910@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: They/Them
 - ⚡ Fun fact: ...
 
 <!---
