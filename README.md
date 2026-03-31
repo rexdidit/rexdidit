@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rexdidit
-- 👀 I’m interested in Software development, Web development, Quant, Graphic Design
-- 🌱 I’m currently learning Discrete Mathematics
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Rexford Nimoh
+- 👀 I’m interested in Software development, Web development, Graphic Design
+- 🌱 I’m currently Assembly
+- 💞️ I’m looking to collaborate on anything with meaningful
 - 📫 How to reach me @rexyrex9910@gmail.com
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: ...
